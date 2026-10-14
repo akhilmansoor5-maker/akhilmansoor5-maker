@@ -56,7 +56,7 @@ I'm also exploring how **AI** can transform the way websites are designed, devel
   <img src="https://img.shields.io/badge/SEO-FF6F00?style=for-the-badge&logo=googlesearchconsole&logoColor=white" alt="SEO" />
   <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Google Analytics" />
   <img src="https://img.shields.io/badge/Digital%20Marketing-4285F4?style=for-the-badge&logo=googleads&logoColor=white" alt="Digital Marketing" />
-  <img src="https://img.shields.io/badge/AI%20Automation-412991?style=for-the-badge&logo=openai&logoColor=white" alt="AI Automation" />
+  <img src="https://img.shields.io/badge/AI%20Automation-412991?style=for-the-badge&logo=googlegemini&logoColor=white" alt="AI Automation" />
 </p>
 
 ## 🔥 What I'm Building

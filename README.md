@@ -1,76 +1,76 @@
-<!--
-IMPORTANT:
-1. Create a PUBLIC repository whose name exactly matches your GitHub username.
-2. Replace akhilmansoor5-maker everywhere below with your actual GitHub username.
-3. Commit this file as README.md in that repository.
--->
-
-<h1 align="center">Hi 👋, I'm Sinan TK</h1>
-<h3 align="center">Full-Stack Developer | Building practical web products</h3>
+<h1 align="center">Hi 👋, I'm Akhil Mansoor</h1>
+<h3 align="center">Website Developer | Entrepreneur | Co-founder of Defau</h3>
 
 <p align="center">
-  I build web applications with a focus on clean user experiences, reliable backends, and scalable architecture.
+  I build digital experiences that help businesses grow.
 </p>
 
 <p align="center">
-  <a href="https://sinan-tk.in" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-sinan--tk.in-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  <a href="https://akhilmansoor.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-akhilmansoor.com-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://github.com/akhilmansoor5-maker">
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <img src="https://img.shields.io/badge/Calicut,%20Kerala,%20India-E34F26?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 💻 Full-stack developer interested in building useful, production-minded software.
-- 🌱 Currently strengthening my skills in **TypeScript, backend architecture, databases, and system design**.
-- 🧩 I enjoy solving problems, learning through projects, and improving code quality.
-- 🎯 Long-term goal: grow into a software architect.
-- 🌐 Portfolio: **[sinan-tk.in](https://sinan-tk.in)**
+My journey hasn't been a straight line. I've worked across **business development, trading, and business operations**, gaining a practical understanding of how businesses work, where they struggle, and what they need to scale. That cross-functional experience shapes how I approach technology, websites, and digital growth.
+
+I build websites that go beyond aesthetics. From business websites and landing pages to Shopify stores and conversion-focused digital experiences, my focus is on creating **digital infrastructure** that helps businesses establish their presence, communicate their value, and turn visitors into customers.
+
+I'm also exploring how **AI** can transform the way websites are designed, developed, and integrated into business operations.
+
+- 🏗️ I enjoy building things from scratch and turning ideas into real-world businesses.
+- 🧪 Always experimenting with emerging technologies.
+- 🤝 Open to connecting with founders, entrepreneurs, and businesses looking to build better websites, launch digital products, or explore new business opportunities.
+- 📍 Based in **Calicut, Kerala, India**
+- 🌐 Portfolio: **[akhilmansoor.com](https://akhilmansoor.com)**
 
 ## 🛠️ Tech Stack
 
-### Languages
+### Platforms & Site Building
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css" alt="JavaScript, TypeScript, HTML, CSS" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
+  <img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" alt="Elementor" />
+  <img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify" />
+  <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" alt="WooCommerce" />
 </p>
 
-### Frontend
+### Languages & Web
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" alt="React, Next.js, Tailwind CSS, Bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php" alt="HTML, CSS, JavaScript, PHP" />
 </p>
 
-### Backend
+### Tools & Deployment
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" alt="Node.js, Express, NestJS" />
+  <img src="https://skillicons.dev/icons?i=figma,git,github,vercel,netlify,cloudflare" alt="Figma, Git, GitHub, Vercel, Netlify, Cloudflare" />
 </p>
 
-### Databases, Tools & Deployment
+### Growth & AI
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma,supabase,git,github,docker,postman,vercel" alt="MongoDB, PostgreSQL, Prisma, Supabase, Git, GitHub, Docker, Postman, Vercel" />
+  <img src="https://img.shields.io/badge/SEO-FF6F00?style=for-the-badge&logo=googlesearchconsole&logoColor=white" alt="SEO" />
+  <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Google Analytics" />
+  <img src="https://img.shields.io/badge/Digital%20Marketing-4285F4?style=for-the-badge&logo=googleads&logoColor=white" alt="Digital Marketing" />
+  <img src="https://img.shields.io/badge/AI%20Automation-412991?style=for-the-badge&logo=openai&logoColor=white" alt="AI Automation" />
 </p>
 
-## 🔥 Featured Projects
+## 🔥 What I'm Building
 
-### 🏋️ Gym Management SaaS
-A gym operations platform concept covering members, staff, attendance, payments, payroll, and multi-branch management.
+### 🧩 Defau — AI-Integrated Digital Growth Agency
+Co-founder. Based in Calicut, working at the intersection of **web development, SEO, digital marketing, and AI automation**.
 
-**Focus:** SaaS architecture, role-based access, database design, and operational workflows.
+> Our philosophy is simple: **We Build. We Rank. We Grow.**
 
-### ⚽ Turf Booking Platform
-A booking platform concept designed to make discovering and booking football turfs easier.
+### ☂️ Alumi — Consumer Brand
+A consumer brand focused on **umbrellas and lifestyle products**.
 
-**Focus:** availability search, booking rules, payments, and owner/admin workflows.
-
-### 🛒 JerseyGarage
-An e-commerce project built around a Node.js web stack.
-
-**Focus:** product catalogue, shopping workflows, and backend integration.
-
-> Replace or reorder these projects with your strongest public repositories. Add a repository link and a live demo to each project when available.
+### 📦 China Next — Product Sourcing
+A product-sourcing venture connecting businesses with **opportunities in China**.
 
 ## 📊 GitHub Stats
 
@@ -85,8 +85,6 @@ An e-commerce project built around a Node.js web stack.
 
 ## 🐍 Contribution Snake
 
-The snake animation is generated by the GitHub Actions workflow in `.github/workflows/snake.yml`.
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akhilmansoor5-maker/akhilmansoor5-maker/output/github-contribution-grid-snake-dark.svg" />
@@ -98,5 +96,5 @@ The snake animation is generated by the GitHub Actions workflow in `.github/work
 ---
 
 <p align="center">
-  <i>Build consistently. Learn continuously. Ship useful things.</i>
+  <i>We Build. We Rank. We Grow.</i>
 </p>
